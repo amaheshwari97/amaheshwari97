@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaheshwari97&label=Profile%20views&color=0e75b6&style=flat" alt="amaheshwari97" /> </p>
 <img src="Images/Programming.gif" alt="Coding" align="right" width="400">
 
-- ⚡ Fun fact **I am huge F1 Fan!!**
+⚡ Fun fact **I am huge F1 Fan!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
