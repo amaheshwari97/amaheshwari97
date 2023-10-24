@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Aman Maheshwari</h1>
 <p align="left">I'm a highly motivated professional with experience in business analysis, project management, supply chain and operations. I hold a Master's degree in Data Analytics Engineering, PMI-CAPM certification, and Six Sigma Green Belt certification. My background includes automating data analysis, leading cross-functional teams, and improving operational efficiency. I'm proficient in Python, R, and BI tools and have a strong track record of optimizing processes and enhancing data-driven decision-making.</p>
 
-<p align="left"> <img src="hImages/Prpgramming_gif.gif" alt="amaheshwari97" /> </p>
+<p align="left"> <img src="Images/Prpgramming_gif.gif" alt="amaheshwari97" /> </p>
 
 - 📫 How to reach me **maheshwari1441@gmail.com**
 
